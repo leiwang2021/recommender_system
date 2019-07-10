@@ -1,0 +1,8 @@
+*.csv
+*.zip
+*.base
+*.test
+/code/deepFFM/data/
+/code/FFM/TFModel/
+/code/FFM/data/
+/code/FM/data/
