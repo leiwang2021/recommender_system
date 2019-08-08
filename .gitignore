@@ -2,6 +2,7 @@
 *.zip
 *.base
 *.test
+*.p
 /code/deepFFM/data/
 /code/FFM/TFModel/
 /code/FFM/data/
